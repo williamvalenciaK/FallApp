@@ -71,7 +71,7 @@ La aceleración total o **aceleración resultante** se calcula como la magnitud 
 donde:
 
 - \(x, y, z\) son las componentes de la aceleración en los ejes del dispositivo (m/s²).
-- \a_res es la aceleración total medida por el acelerómetro lineal.
+- a_res es la aceleración total medida por el acelerómetro lineal.
 
 Esta fórmula proviene de la **geometría vectorial** para obtener la magnitud de un vector en 3 dimensiones.
 
