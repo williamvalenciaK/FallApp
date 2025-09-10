@@ -23,7 +23,7 @@
 - **Dispositivo Android** con acelerómetro lineal (tipo teléfono o tablet).
 - **Sensor de aceleración lineal** integrado en el dispositivo (no se requiere hardware externo).
 - **SIM con plan de SMS** activo para enviar alertas.
- 
+
 ---
 
 ## Tecnologías y librerías
@@ -77,10 +77,10 @@ Esta fórmula proviene de la **geometría vectorial** para obtener la magnitud d
 
 ### Referencias:
 
-1. Halliday, D., Resnick, R., & Walker, J. (2014). *Fundamentals of Physics* (10th ed.). Wiley.  
-   - Sección: Movimiento en tres dimensiones, magnitud de un vector.
+1. Halliday, D., Resnick, R., & Walker, J. (2014). *Fundamentals of Physics* (10th ed.). Wiley.
+    - Sección: Movimiento en tres dimensiones, magnitud de un vector.
 2. Android Developers. *Sensors Overview*  
    [https://developer.android.com/guide/topics/sensors/sensors_overview](https://developer.android.com/guide/topics/sensors/sensors_overview)
-3. Tipler, P. A., & Mosca, G. (2008). *Physics for Scientists and Engineers* (6th ed.). W.H. Freeman.  
-   - Capítulo: Vectores y movimiento en el espacio.
+3. Tipler, P. A., & Mosca, G. (2008). *Physics for Scientists and Engineers* (6th ed.). W.H. Freeman.
+    - Capítulo: Vectores y movimiento en el espacio.
 
