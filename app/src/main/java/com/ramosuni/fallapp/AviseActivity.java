@@ -67,6 +67,18 @@ public class AviseActivity extends AppCompatActivity {
         });
 
         btnNo.setOnClickListener(v -> {
+            if (bound && service != null) {
+                // Obtener número de emergencia desde SharedPreferences
+                String numero = getSharedPreferences("app_prefs", MODE_PRIVATE)
+                        .getString("numero_emergencia", "");
+                if (!numero.isEmpty()) {
+                    service.sendEmergencyMessage(numero); // enviar SMS inmediatamente
+                }
+
+                // Cancelar countdown y actualizar contador en pantalla
+                service.cancelEmergencyMessage();
+            }
+
             runOnUiThread(() -> tvCount.setText(R.string.mensaje_enviado));
             finish();
         });

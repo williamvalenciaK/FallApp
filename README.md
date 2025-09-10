@@ -50,4 +50,4 @@
 
 3. Sincronizar Gradle y compilar el proyecto.
 
-4. Instalar la app en un dispositivo con acelerómetro y tarjeta SIM.
+4. Instalar la app en un dispositivo con acelerómetro.
