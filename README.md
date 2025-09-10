@@ -66,9 +66,7 @@
 
 La aceleración total o **aceleración resultante** se calcula como la magnitud del vector aceleración tridimensional:
 
-\[
-a_{\text{res}} = \sqrt{x^2 + y^2 + z^2}
-\]
+![fórmula](https://latex.codecogs.com/svg.latex?\color{White}a_{res}=\sqrt{x^2+y^2+z^2})
 
 donde:
 
