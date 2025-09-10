@@ -137,7 +137,7 @@ public class LinearAccelerometerService extends Service implements SensorEventLi
         }.start();
     }
 
-    private void sendEmergencyMessage(String numero) {
+    public void sendEmergencyMessage(String numero) {
         String mensaje = "⚠️ Posible caída detectada. Por favor, verifica mi estado.";
         try {
             SmsManager smsManager = SmsManager.getDefault();
