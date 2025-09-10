@@ -18,6 +18,14 @@
 
 ---
 
+## Hardware utilizado
+
+- **Dispositivo Android** con acelerómetro lineal (tipo teléfono o tablet).
+- **Sensor de aceleración lineal** integrado en el dispositivo (no se requiere hardware externo).
+- **SIM con plan de SMS** activo para enviar alertas.
+ 
+---
+
 ## Tecnologías y librerías
 
 - **Lenguaje:** Java
